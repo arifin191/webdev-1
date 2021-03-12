@@ -1,0 +1,14 @@
+#topbar{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin: 10px;
+    border: 2px solid rgb(90, 10, 10);
+    padding: 20px;
+}
+.kamla{
+    border: 2px dotted maroon;
+    margin: 10px;
+    padding: 5px;
+}
